@@ -1,4 +1,4 @@
-ENV,Server Name,Function / Domain,Applications,Channel,Server Type
+"ENV","Server Name","Function / Domain","Applications","Channel","Server Type"
 PRD,LPVRA81A0101,CORE - TOMCAT,OLTP-Async,green,VM
 PRD,LPVRA82A0101,CORE - TOMCAT,OLTP-Async,green,VM
 PRD,LPVRA83A0101,CORE - TOMCAT,OLTP-B.Admin,green,VM
